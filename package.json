@@ -1,0 +1,24 @@
+{
+  "name": "simple-guard-js",
+  "version": "0.0.1",
+  "description": "Swift-like guard syntax for javascript",
+  "main": "simple-guard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eguitarz/simple-guard-js.git"
+  },
+  "keywords": [
+    "js",
+    "guard",
+    "assert"
+  ],
+  "author": "Dale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eguitarz/simple-guard-js/issues"
+  },
+  "homepage": "https://github.com/eguitarz/simple-guard-js#readme"
+}
